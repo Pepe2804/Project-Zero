@@ -1,0 +1,7 @@
+C:\Users\pepe2\Project Zero\Project Zero\Project Zero\bin\Debug\Project Zero.exe.config
+C:\Users\pepe2\Project Zero\Project Zero\Project Zero\bin\Debug\Project Zero.exe
+C:\Users\pepe2\Project Zero\Project Zero\Project Zero\bin\Debug\Project Zero.pdb
+C:\Users\pepe2\Project Zero\Project Zero\Project Zero\obj\Debug\Project Zero.csproj.AssemblyReference.cache
+C:\Users\pepe2\Project Zero\Project Zero\Project Zero\obj\Debug\Project Zero.csproj.CoreCompileInputs.cache
+C:\Users\pepe2\Project Zero\Project Zero\Project Zero\obj\Debug\Project Zero.exe
+C:\Users\pepe2\Project Zero\Project Zero\Project Zero\obj\Debug\Project Zero.pdb
