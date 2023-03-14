@@ -10,7 +10,7 @@ namespace Project_Zero
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Tinke");
+            Console.WriteLine("Hello Hachel");
             Console.ReadLine();
         }
     }
